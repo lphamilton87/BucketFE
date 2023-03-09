@@ -1,6 +1,6 @@
 ## Bookit Bucket
 
-Here is the front end project to our bucket list app #Buckit Bucket developed using React Native.
+Here is the front end project to our bucket list app #Buckit Bucket developed using React Native, and React Native Maps for map integration.
 
 ## Log In & Sign Up
 
@@ -34,4 +34,10 @@ To run this project on your local machine you first need to fork the repository 
 You can then install the required dependencies by running `npm install` in your terminal
 
 Run `npm start` to view the app locally in development mode. You will need to install Expo Go app on your mobile device or using an emulator, we suggest using Android Studio.
+
+## Back end 
+
+We used Axios to make HTTP request to our hosted API. For our back end database we used MongoDB along with Mongoose to manage the relationship between MongoDB and Node.js. Here is the link to the back end repo:
+
+https://github.com/lphamilton87/BucketBE
 
