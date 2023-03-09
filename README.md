@@ -1,6 +1,6 @@
 ## Bookit Bucket
 
-Here is the front end project to our bucket list app #Buckit Bucket developed using React Native, and React Native Maps for map integration.
+Here is the front end project to our app #Buckit Bucket. A platform which allows users to develop their personal bucket list for all their travel and adventure wishes. Developed using React Native, and React Native Maps for map integration.
 
 ## Log In & Sign Up
 
